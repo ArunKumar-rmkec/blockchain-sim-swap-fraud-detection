@@ -65,8 +65,8 @@ Ensure you have the following installed on your laptop:
 ### 2. Clone the Repository & Open Project Directory
 Open **Windows PowerShell** (or Terminal on macOS/Linux):
 ```powershell
-git clone <YOUR_GITHUB_REPO_URL>
-cd sim_swap_software_starter
+git clone https://github.com/ArunKumar-rmkec/blockchain-sim-swap-fraud-detection.git
+cd blockchain-sim-swap-fraud-detection
 ```
 
 ---
