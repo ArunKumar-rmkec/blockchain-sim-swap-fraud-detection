@@ -1,0 +1,13 @@
+{
+  "contract_name": "SimSwapAudit",
+  "contract_address": "0xD833215cBcc3f914bD1C9ece3EE7BF8B14f841bb",
+  "chain_id": 1337,
+  "rpc_url": "http://127.0.0.1:8545",
+  "deployer_address": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
+  "deployment_tx_hash": "0bd5857838503ba4e6734eaea67af61e45c32d4ea120318eadcf8c50f64e4c61",
+  "block_number": 6,
+  "gas_used": 1780322,
+  "status": "CONFIRMED_ON_CHAIN",
+  "solc_version": "0.8.20",
+  "deployed_at": "2026-10-20T13:26:41.980252+00:00"
+}
